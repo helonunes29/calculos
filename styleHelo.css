@@ -1,0 +1,83 @@
+*{
+    color: rgb(183, 177, 177);
+    margin: 0px;
+    background: rgb(106, 104, 137);
+}
+
+.telaInteira{
+    background: linear-gradient(#141e30, #243b55);
+}
+
+.items{
+    border: 5px outset rgb(69, 67, 67);
+    background: linear-gradient(#141e30, #243b55);
+    padding: 5px;
+    width: 509px;
+
+    position: relative;
+    left: calc(45% - 200px);
+
+    text-align: center;
+
+}
+
+.abc{
+    background: rgb(106, 104, 137);
+}
+
+#atividade1{
+    border: 5px solid black;
+
+    text-align: center;
+
+    height: 100px;
+    width: 500px;
+}
+
+#atividade2{
+    border: 5px solid black;
+
+    height: 100px;
+    width: 500px;
+   
+}
+
+#atividade3{
+    border: 5px solid black;
+
+    height: 100px;
+    width: 500px;
+   
+}
+
+#atividade4{
+    border: 5px solid black;
+
+    height: 100px;
+    width: 500px;
+   
+}
+
+#atividade5{
+    border: 5px solid black;
+
+    height: 100px;
+    width: 500px;
+   
+}
+
+#atividade6{
+    border: 5px solid black;
+
+    height: 100px;
+    width: 500px;
+   
+}  
+
+#atividade7{
+    border: 5px solid black;
+
+    height: 100px;
+    width: 500px;
+    
+}
